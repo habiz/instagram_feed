@@ -1,0 +1,21 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "sample code to stream instagram feed in web app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "instagram-node": "^0.5.8",
+    "ejs": "^2.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "instagram"
+  ],
+  "author": "habiz",
+  "license": "ISC"
+}
